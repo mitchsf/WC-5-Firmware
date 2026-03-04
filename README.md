@@ -52,7 +52,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 | SW1 press | Cycle color effects |
 | SW1 press during override | Restore original settings temporarily |
 | SW1 hold at power-on | Cycle LEDs through RGB (assembly test) |
-| SW1 press at WC5 display | Enter debug mode (fast time cycle) |
+| SW1 hold 10s | Download and install update |
 | SW2 press | Cycle brightness (10 levels) |
 | SW2 hold 5s | Enter AP configuration mode |
 | SW2 hold at power-on | Fix RGB color order (release at WC5) |
