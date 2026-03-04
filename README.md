@@ -38,7 +38,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 
 1. Connect 5V DC power supply — **do not use 12V**
 2. **AP** blinks on the display indicating access point mode
-3. Connect to Wi-Fi network **WordClock-5** from any device
+3. Connect to Wi-Fi network **WordClock-5-x** from any device
 4. Enter `192.168.4.1` in a browser
 5. Select your Wi-Fi network, enter password, adjust settings, press Save
 6. Clock displays **WC5** → **WiFi** → **NTP** → correct time
