@@ -14,7 +14,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 - **32-column:** Time to the minute
 - **48-column:** Time to the second
 - **Power:** 5V DC, 5.5/2.1mm center positive or USB-C — **NOT compatible with 12V supplies**
-- **Minimum current:** 2A (single board), 4A (double board)
+- **Minimum current:** 1A (single board), 2A (double board), 3A (triple board)
 
 ---
 
