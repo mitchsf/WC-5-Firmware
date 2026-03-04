@@ -41,7 +41,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 3. Connect to Wi-Fi network **WordClock-5-x** from any device
 4. Enter `192.168.4.1` in a browser
 5. Select your Wi-Fi network, enter password, adjust settings, press Save
-6. Clock displays **WC5** → **WiFi** → **NTP** → correct time
+6. Clock displays startup -> correct time with optional animations and effects
 
 ---
 
