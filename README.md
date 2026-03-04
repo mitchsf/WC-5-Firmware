@@ -55,7 +55,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 | SW1 hold 10s | Download and install update |
 | SW2 press | Cycle brightness (10 levels) |
 | SW2 hold 5s | Enter AP configuration mode |
-| SW2 hold at power-on | Fix RGB color order (release at WC5) |
+| SW2 hold at power-on | Cycle board types |
 | SW1+SW2 at power-on | Factory reset + AP mode (release at WC5) |
 
 ---
